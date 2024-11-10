@@ -1,10 +1,7 @@
 # Diagnosis_Evaluation_Tool
 Real-Time Medical Diagnosis Evaluation Tool
 
-Here's a breakdown of your project based on your description and code implementation, detailing each component and how it contributes to the end goal of providing real-time diagnostic assistance.
-
 ---
-
 ### Project Description:
 
 - **Symptom-Based Diagnostic System**:
