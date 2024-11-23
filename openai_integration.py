@@ -4,7 +4,7 @@ from input_vector import find_index
 import os
 
 # OpenAI API Key (use your actual API key)
-openai.api_key = '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'
+openai.api_key = 'xxxxxx'
 
 # Load symptom keywords from dataset
 symptom_keywords = pd.read_csv('symptom_keywords.csv')['keywords'].tolist()
